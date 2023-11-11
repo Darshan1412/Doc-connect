@@ -19,7 +19,7 @@ This empowers patients to take an active role in their health management and mak
 - Linkedin: 
 - Email: 
 
-  👤 **Siddesh Mishra**
+👤 **Siddesh Mishra**
 - Github: https://github.com/Siddesh272
 - Linkedin: 
 - Email: 
