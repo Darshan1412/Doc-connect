@@ -10,7 +10,7 @@ Explore the architecture, features, and setup of Docotor Connect, a web applicat
 
 Watch our demo video to see Docotor Connect in action! 🚀
 
-# TeamMates
+## TeamMates
 
 👤 **Darshan Jain**
 - Github: https://github.com/Darshan1412
@@ -39,6 +39,6 @@ Watch our demo video to see Docotor Connect in action! 🚀
 
 
 
-# Show Your Support 
+## Show Your Support 
 
 Give a ⭐️ if you like this project!
