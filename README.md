@@ -19,8 +19,8 @@ Watch our demo video to see Doc-Connect in action! 🚀
 
 👤 **Suryaprakash Singh**
 - Github: https://github.com/SuryaprakashSingh25
-- Linkedin: 
-- Email: 
+- Linkedin: https://www.linkedin.com/in/suryaprakash-singh
+- Email: singh.suraj1025@gmail.com
 
 👤 **Krshil Shah**
 - Github: https://github.com/KrishilShah
