@@ -6,7 +6,7 @@ This empowers patients to take an active role in their health management and mak
 
 👤 **Darshan Jain**
 - Github: https://github.com/Darshan1412
-- Linkedin: https://www.linkedin.com/in/Darshan-Jain1/
+- Linkedin: https://www.linkedin.com/in/Darshan-Jain1
 - Email: darshanjain768@gmail.com
 
 👤 **Suryaprakash Singh**
