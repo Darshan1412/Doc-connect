@@ -4,11 +4,11 @@ Online health systems can provide patients with personalized health education ma
 This empowers patients to take an active role in their health management and make informed decisions.
 
 ## Project Walkthrough[Demo Video]
-Explore the architecture, features, and setup of Docotor Connect, a web application designed to streamline and enhance the doctor-patient connection. This walkthrough provides comprehensive insights into the project, guiding you through its implementation and showcasing its key functionalities.
+Explore the architecture, features, and setup of Doc-Connect, a web application designed to streamline and enhance the doctor-patient connection. This walkthrough provides comprehensive insights into the project, guiding you through its implementation and showcasing its key functionalities.
 
 [![Doc-Connect Demo](https://img.youtube.com/vi/SAyRQpoLEfs/0.jpg)](https://youtu.be/SAyRQpoLEfs)
 
-Watch our demo video to see Docotor Connect in action! 🚀
+Watch our demo video to see Doc-Connect in action! 🚀
 
 ## TeamMates
 
