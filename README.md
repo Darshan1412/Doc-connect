@@ -28,27 +28,27 @@ Watch our demo video to see Doc-Connect in action! 🚀
 ## TeamMates
 
 👤 **Darshan Jain**
-- Github: https://github.com/Darshan1412
-- Linkedin: https://www.linkedin.com/in/Darshan-Jain1
+- Github: [Darshan1412] (https://github.com/Darshan1412)
+- Linkedin: [Darshan Jain] (https://www.linkedin.com/in/Darshan-Jain1)
 - Email: darshanjain768@gmail.com
 
 👤 **Suryaprakash Singh**
-- Github: https://github.com/SuryaprakashSingh25
-- Linkedin: https://www.linkedin.com/in/suryaprakash-singh
+- Github: [SuryaprakashSingh25] (https://github.com/SuryaprakashSingh25)
+- Linkedin: [Suryaprakash Singh]  (https://www.linkedin.com/in/suryaprakash-singh)
 - Email: singh.suraj1025@gmail.com
 
 👤 **Krshil Shah**
-- Github: https://github.com/KrishilShah
+- Github: [KrishilShah] (https://github.com/KrishilShah)
 - Linkedin: 
 - Email: 
 
 👤 **Siddesh Mishra**
-- Github: https://github.com/Siddesh272
+- Github: [Siddesh272] (https://github.com/Siddesh272)
 - Linkedin: 
 - Email: 
 
 👤 **Prem Tatkari**
-- Github: https://github.com/PremTatkari
+- Github: [PremTatkari] (https://github.com/PremTatkari)
 - Linkedin: 
 - Email: 
 
